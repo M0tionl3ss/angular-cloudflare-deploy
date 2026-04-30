@@ -6,7 +6,7 @@
     "enabled": true
   },
   "assets": {
-    "directory": "dist/"
+    "directory": "dist/angular-cloudflare-deploy/browser"
   },
   "compatibility_flags": [
     "nodejs_compat"
